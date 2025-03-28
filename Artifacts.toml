@@ -1,288 +1,316 @@
 [[soapysdr]]
 arch = "aarch64"
-git-tree-sha1 = "525abc8d92706ec5e62cbada86c19040b2d15d9c"
+git-tree-sha1 = "e062e67b93de245f4af86f3246663a9017ecec19"
 os = "macos"
 
     [[soapysdr.download]]
-    sha256 = "2f91fedface26185b80e432fef05a18fbbef98960c5717adc8da9ab3c6d8e78c"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "5a1f55491171cca23392c6f954ac7106954a3a8cfa70e8b6e4fdd83ff4f73f77"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.aarch64-apple-darwin.tar.gz"
 [[soapysdr]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "633f47e82bb9f6c7fb04bafe0c56949b74ee8b43"
+git-tree-sha1 = "4d927a0ef4fc39ad23e2d1938e0d021d2b2d9111"
 libc = "glibc"
 os = "linux"
 
     [[soapysdr.download]]
-    sha256 = "17d58feadc1d4e2e4cd5863dcd1c1833323a962e86bf9caea29d90ac4a3f7bdb"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "f865332e5e7cd75802cc111d0ccba5e128ebc7a156da45a3d4654645afc8abfc"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.aarch64-linux-gnu-cxx03.tar.gz"
 [[soapysdr]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e1638922052f8a3b0ac22612abd1cf10849c6647"
+git-tree-sha1 = "cd11ec109852c166eaa8a2f0363964b59bd3767b"
 libc = "glibc"
 os = "linux"
 
     [[soapysdr.download]]
-    sha256 = "25f292da0139902bb52a0f122bf758e4cc01970c8a5f3866363f0ded8cdd3eb7"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "2794c0ccb0b0affa421e7194bf044e3fc34f261c8759a1175798cd3dbc0c2788"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.aarch64-linux-gnu-cxx11.tar.gz"
 [[soapysdr]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "216feb9a154f4588b7c95dba42b28a8b3ae816a8"
+git-tree-sha1 = "738322a0c59a71d69b2eaaaf0d2e1087ec80147c"
 libc = "musl"
 os = "linux"
 
     [[soapysdr.download]]
-    sha256 = "631dd9bbdc11f32e597dd787cbc15a8dc806bb24639a8e2ae23211274b76512d"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "a813d6bdbcdbca33dc1d17ba2e1b58887cbe862122432dc11ea04718fed4cf30"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.aarch64-linux-musl-cxx03.tar.gz"
 [[soapysdr]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5fc5bf07c0dee90ad7ab19b9b7d84f8362a72495"
+git-tree-sha1 = "9af340d16c06383a91ec1c9d5fcc5f206eff0ac4"
 libc = "musl"
 os = "linux"
 
     [[soapysdr.download]]
-    sha256 = "105241c863fa5fdffe9269960c692f5ff18e964fa9f6b5d9f22a0e6393d575f7"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "4f48b7ab18d9d6febcea6217f377493fc336b319c3c23616a07a9dd24ebaf9b5"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.aarch64-linux-musl-cxx11.tar.gz"
 [[soapysdr]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "09933f856734c069af636098fd7e18df29d8b25e"
-libc = "glibc"
-os = "linux"
-
-    [[soapysdr.download]]
-    sha256 = "445e1c67ca6d832ea5fbe3ab6344afc864e1a87742a53c201a7dfb4814738b83"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
-[[soapysdr]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "72c16a43672e214c46583183ce2318729d42efbf"
-libc = "glibc"
-os = "linux"
-
-    [[soapysdr.download]]
-    sha256 = "cec6d324e6e50ef6b581037e9b6dc461f85701031e5f1ab0b4adcee553d314a7"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
-[[soapysdr]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "94d7aa565adf675dbbb0f18161d735b746478f37"
-libc = "musl"
-os = "linux"
-
-    [[soapysdr.download]]
-    sha256 = "94942cc81caa6f54b923af4fd4c0b141a839c0a8600d0e623ffe0718c0a0f960"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.armv6l-linux-musleabihf-cxx03.tar.gz"
-[[soapysdr]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "4d51b48c7312feed6ae9f40bc5f66894864c8fc8"
-libc = "musl"
-os = "linux"
-
-    [[soapysdr.download]]
-    sha256 = "d527b1a931d9cee371b6d1d26cd298a9651c2bd24400021f7714b766df2ad796"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.armv6l-linux-musleabihf-cxx11.tar.gz"
-[[soapysdr]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "c86510e665ac7be8d5ab674fb9fb983422a0049c"
-libc = "glibc"
-os = "linux"
-
-    [[soapysdr.download]]
-    sha256 = "a448939f08b3b2543d30b86414d2877047b434c2305cfd47725464be505758ff"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
-[[soapysdr]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "f40b457c5988de554e68827b0b8c628e9d9c579a"
-libc = "glibc"
-os = "linux"
-
-    [[soapysdr.download]]
-    sha256 = "5c3694effe58ad77e8a6aeb18b1d3f26042d330411a46ad49b76521a1a532aed"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
-[[soapysdr]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f4a01c37662ff2268bf3047832f35334a9271016"
-libc = "musl"
-os = "linux"
-
-    [[soapysdr.download]]
-    sha256 = "ac3aac5017c61768ee33317a36ba3f52d1b56d996181a0c6ec690dd6aed6d6b1"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.armv7l-linux-musleabihf-cxx03.tar.gz"
-[[soapysdr]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "14f999ca637b932f2b870b2e1798b8c9f8697171"
-libc = "musl"
-os = "linux"
-
-    [[soapysdr.download]]
-    sha256 = "2d5f7f38f29310736d43fd7d0503b4d0edb14fac2024acd368e04943618bf423"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.armv7l-linux-musleabihf-cxx11.tar.gz"
-[[soapysdr]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "88b503c97a70aecc749f178b00deb08586d6487b"
-libc = "glibc"
-os = "linux"
-
-    [[soapysdr.download]]
-    sha256 = "ea71fe8b724c5e4766c4b5299c40d94b3709357b8963fd1c13b80d5031c4c698"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.i686-linux-gnu-cxx03.tar.gz"
-[[soapysdr]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "cfa6185072fc83ea4cc829659daafc6ae92afe54"
-libc = "glibc"
-os = "linux"
-
-    [[soapysdr.download]]
-    sha256 = "dfdc2482ae414fb622a3959e0199a92979c2db2f7fd65fcc5bf3afeb767b419c"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.i686-linux-gnu-cxx11.tar.gz"
-[[soapysdr]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "cae23ab18c0a39c77764d36463eed9b43aba3a38"
-libc = "musl"
-os = "linux"
-
-    [[soapysdr.download]]
-    sha256 = "813e0fda137667970be4020b68bb356ca9aa5d1cd7c96045e09ae3eebc440f1e"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.i686-linux-musl-cxx03.tar.gz"
-[[soapysdr]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "be6c8365669e4973940900c3af8c6e450d57f89b"
-libc = "musl"
-os = "linux"
-
-    [[soapysdr.download]]
-    sha256 = "a46ec84465b9d6c89190dfddf3a8b978916a91c027415f5df689fb44e0293330"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.i686-linux-musl-cxx11.tar.gz"
-[[soapysdr]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "ba2f9495bd30c9f0ab617f84234a7e2a598a5cda"
-os = "windows"
-
-    [[soapysdr.download]]
-    sha256 = "1e1467566833dd67b2aa0c79dd30a4faf904da7b30033af90bef625c97c69a71"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.i686-w64-mingw32-cxx03.tar.gz"
-[[soapysdr]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d6fe2eaf32dcdc246c1145a77788d43c5fd2e0a3"
-os = "windows"
-
-    [[soapysdr.download]]
-    sha256 = "99816b2b49302ee9f4a6d0aa12b1ad61037d5dfec5362498355668e65db656fb"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.i686-w64-mingw32-cxx11.tar.gz"
-[[soapysdr]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "867f1ccd8f7fbd10c8b15409b95a9f6bee099a00"
-libc = "glibc"
-os = "linux"
-
-    [[soapysdr.download]]
-    sha256 = "ec244e16097f049911054e212e45ec6c91badfe345bc9e932c88b2511c3b02a1"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.powerpc64le-linux-gnu-cxx03.tar.gz"
-[[soapysdr]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "32e75f09b16d532226ade73024826927cea8386d"
-libc = "glibc"
-os = "linux"
-
-    [[soapysdr.download]]
-    sha256 = "03a1c3b38ad6c14a7e2bfcf709adbf86df2115c33930fff4e33a4c5ccb292937"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.powerpc64le-linux-gnu-cxx11.tar.gz"
-[[soapysdr]]
-arch = "x86_64"
-git-tree-sha1 = "d75bc88192fa88926a827669c8a9fc6b49b0169b"
-os = "macos"
-
-    [[soapysdr.download]]
-    sha256 = "0a3c073ab94bd2661c669bcefdb0e20196660f859626c8d2bade8c59c18b5b00"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.x86_64-apple-darwin.tar.gz"
-[[soapysdr]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "e3cf624edd914220b9e1e9cbc600e64ed0e58617"
-libc = "glibc"
-os = "linux"
-
-    [[soapysdr.download]]
-    sha256 = "cb7e10d6607f1cc05a5f37643e9f1c21896257a0cf5562094b3d2fcdcea6e552"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.x86_64-linux-gnu-cxx03.tar.gz"
-[[soapysdr]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "6f793024cbf86c846108b84636b77b7c50f24e15"
-libc = "glibc"
-os = "linux"
-
-    [[soapysdr.download]]
-    sha256 = "23ec66e574d23da393c13a9e42f827cb2196cb2a70b6b649f7432a53757a01be"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.x86_64-linux-gnu-cxx11.tar.gz"
-[[soapysdr]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "196bf071bb0d93b490974b22cc3d22cf27fd02a9"
-libc = "musl"
-os = "linux"
-
-    [[soapysdr.download]]
-    sha256 = "d1703f252c25509921399b6294b777d8f6467b38ce8e7adafc15f50609cd6c57"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.x86_64-linux-musl-cxx03.tar.gz"
-[[soapysdr]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "594a4e0bd869e422c62a3ddc69ce78a8ceb13fdb"
-libc = "musl"
-os = "linux"
-
-    [[soapysdr.download]]
-    sha256 = "04fce3efda93b22808caec1ae8a7df5ef7a00a9069fd8a8ee98bbdecad69e4f6"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.x86_64-linux-musl-cxx11.tar.gz"
-[[soapysdr]]
-arch = "x86_64"
-git-tree-sha1 = "544093f278f09315b922ae01484766de29874767"
+arch = "aarch64"
+git-tree-sha1 = "3ff02252ddf3ffe2db1d349eee04d25c49324565"
 os = "freebsd"
 
     [[soapysdr.download]]
-    sha256 = "b729e9e05526df3e8a44e924c035eeb8adda51d0ee401a60adc66ecbe2c9ec5f"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "272ea00370985c37e2e5cb81b66518ffede3a8a0406a7cb5aad92218e6ca60c8"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.aarch64-unknown-freebsd.tar.gz"
+[[soapysdr]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4a51e8a6e37754fffee185c036057f8e55bdae0e"
+libc = "glibc"
+os = "linux"
+
+    [[soapysdr.download]]
+    sha256 = "68996f00eff8f8725a178756023e3acd2f1196cc3d32df4df7d7812fde8bb685"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[soapysdr]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4e7135e8f8bc3753355afb910e3b5218222299f8"
+libc = "glibc"
+os = "linux"
+
+    [[soapysdr.download]]
+    sha256 = "df5ea87a47e829a899220fe315d6ff705d6c8383725037a9fe2cfc405d4f94c8"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[soapysdr]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0ba575d8af543bd55bb65d8771ca963a6e29dee3"
+libc = "musl"
+os = "linux"
+
+    [[soapysdr.download]]
+    sha256 = "3f7324db0db5b248d4f65a93bfe0df4830ca1289d756342bd3d3ad3809c3c093"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[soapysdr]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0cd4590a4ee814b035ca953d44365b30ea554b4a"
+libc = "musl"
+os = "linux"
+
+    [[soapysdr.download]]
+    sha256 = "c3639415f084410eda427d9a1d9769d63a456c4e8a3fc3d911fbdd8fb1175d07"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[soapysdr]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b4eb8be0b8b9518b1cc0bc8c3ff24384f53aecbd"
+libc = "glibc"
+os = "linux"
+
+    [[soapysdr.download]]
+    sha256 = "6a95b133122c97c65453bc47c973245611a1e73721a3222d0b4260b264542f9a"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[soapysdr]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b1ce48e2fdb7adbf341880b42661444a0964ce94"
+libc = "glibc"
+os = "linux"
+
+    [[soapysdr.download]]
+    sha256 = "9ea59532fa4d45080e6d8dcbce4a8d16b7defbb546ffe28a1964681b77d5072e"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[soapysdr]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7bf09461cc000689649f8805aec0b666ee5b95da"
+libc = "musl"
+os = "linux"
+
+    [[soapysdr.download]]
+    sha256 = "09cd900a2217663b40c73ca798f7cf652fbb7bc472e3ed5a8018dd6f24a5626a"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[soapysdr]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fa4fb4c8259dd42f96fd5fc7d69900ba2940ffdf"
+libc = "musl"
+os = "linux"
+
+    [[soapysdr.download]]
+    sha256 = "2ebdab85e04d6bb0c455fc92492d204febe3ac553ded38b7de82fd69fd30fb48"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[soapysdr]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e0ffaea890971639cdb7f29515fff11be28077c4"
+libc = "glibc"
+os = "linux"
+
+    [[soapysdr.download]]
+    sha256 = "913b4307f3368e8d1d9babb2f1cc60ff93970bc87ce6f5fc1cf4cdea7edb4674"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.i686-linux-gnu-cxx03.tar.gz"
+[[soapysdr]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ae9159bc8991fc87fe707e5391a7fc055e2e7b33"
+libc = "glibc"
+os = "linux"
+
+    [[soapysdr.download]]
+    sha256 = "60cf870d05d8b12fbc836e8aa630f9e52ec0e7c1e4749236b76a843982f44449"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.i686-linux-gnu-cxx11.tar.gz"
+[[soapysdr]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d4d50e3cd44fe09d96ffeaf99e6097ed99cdf849"
+libc = "musl"
+os = "linux"
+
+    [[soapysdr.download]]
+    sha256 = "2390cc34deb3b1fd7a6278a0695584b46bb78eab8ba68e22fb4907a1cab69661"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.i686-linux-musl-cxx03.tar.gz"
+[[soapysdr]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ec616fd5c2d975d72cd3b649e98b342315d44b29"
+libc = "musl"
+os = "linux"
+
+    [[soapysdr.download]]
+    sha256 = "0582fb238e8178124b27e16da6b7ac0a8881ea86f086d96e6542e4c226daae28"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.i686-linux-musl-cxx11.tar.gz"
+[[soapysdr]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "88f411270ee0e9ba2f35399a08af71f21dbd7985"
+os = "windows"
+
+    [[soapysdr.download]]
+    sha256 = "65c60efb8928b215a10b0dbc4498bf4215fe7ec2cd7d38e7a820dd7695d84fde"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.i686-w64-mingw32-cxx03.tar.gz"
+[[soapysdr]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "33815b7b1c144e03e3bd15090c041fd97be159b5"
+os = "windows"
+
+    [[soapysdr.download]]
+    sha256 = "8ccff20151317ab503217062097ab2d6a025a4dd719293501876a614d5808724"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.i686-w64-mingw32-cxx11.tar.gz"
+[[soapysdr]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c07a87265a5c2972b3ece3a676a16f970066c588"
+libc = "glibc"
+os = "linux"
+
+    [[soapysdr.download]]
+    sha256 = "0b6da475793329d5942b85e5a4a75aaa1798ee8d7d1d2f4f1f6b529f7136f77a"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[soapysdr]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c4a819d8ce98561c6097cffac3bce9903e2ae76e"
+libc = "glibc"
+os = "linux"
+
+    [[soapysdr.download]]
+    sha256 = "d579e07e06f3ed51639f3840b31eb369c016562fbcc8b899f9634c02578e835d"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[soapysdr]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4b5b3a11fc20ec73fe9943c9e9f42c81b515685e"
+libc = "glibc"
+os = "linux"
+
+    [[soapysdr.download]]
+    sha256 = "e0f32512892f6c62271a349ada6da6513b8b4f19efb987554ed6193534a4b8ae"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.riscv64-linux-gnu-cxx03.tar.gz"
+[[soapysdr]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a7c28c6197ce6faa4a0ea528a663baab94357711"
+libc = "glibc"
+os = "linux"
+
+    [[soapysdr.download]]
+    sha256 = "7d5c02b4f1bf6068654c4f5bbb71a0633cb73e4a3fa76e666bb16489bcf3348e"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.riscv64-linux-gnu-cxx11.tar.gz"
+[[soapysdr]]
+arch = "x86_64"
+git-tree-sha1 = "7d8ba5a1c8fcebd3adbc40e417cd480c75f50ef9"
+os = "macos"
+
+    [[soapysdr.download]]
+    sha256 = "8530985d081301fb84088a9fdc83bbced781bdaf1ae9717b275b970c2c89c6ee"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.x86_64-apple-darwin.tar.gz"
 [[soapysdr]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "81ced5ee67cedeae94bf0d02b6d62ee3df7fd0c7"
-os = "windows"
+git-tree-sha1 = "ab3d442a13d92efa247e992da990aa7620e777ae"
+libc = "glibc"
+os = "linux"
 
     [[soapysdr.download]]
-    sha256 = "369791bf8d4082307962694ecdb1a6f7ae36679b74bccd9b3cc1a614f2a0b96d"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "c4948684df88354d68552410213269c1429aecbe47c79dc70774b4db488ce293"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.x86_64-linux-gnu-cxx03.tar.gz"
 [[soapysdr]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "490b209741f48b832e1f796df9f3677aa6479fd1"
+git-tree-sha1 = "b904cfb58f028b89a25cd13490b275a6f705d3ea"
+libc = "glibc"
+os = "linux"
+
+    [[soapysdr.download]]
+    sha256 = "a46231799b49693fab09564e74dc3aa54919e5c8065302a828707c3aa9663712"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[soapysdr]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "543f6efb79a485116704a9d49fd7bcd35ec30d60"
+libc = "musl"
+os = "linux"
+
+    [[soapysdr.download]]
+    sha256 = "1b678494b4f0cbae0843c31b64d0ae389a48e89008e90cfb1778d5a672b9fa3d"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.x86_64-linux-musl-cxx03.tar.gz"
+[[soapysdr]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "151a3c019f5b7451f3ce34dc129e7db6c65745c6"
+libc = "musl"
+os = "linux"
+
+    [[soapysdr.download]]
+    sha256 = "e2309bb9a3b6c9f6093651cbb2ddd51dd62c479c5364bfbb182abc12bbed147c"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.x86_64-linux-musl-cxx11.tar.gz"
+[[soapysdr]]
+arch = "x86_64"
+git-tree-sha1 = "c4e80bdfd5c683a41e0d67fd5cd2b3ab55ddc3e3"
+os = "freebsd"
+
+    [[soapysdr.download]]
+    sha256 = "a05e5c301bed4c7f3ea12cf8dac9a764ec3167b84eddad279458dc45abc9a901"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.x86_64-unknown-freebsd.tar.gz"
+[[soapysdr]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0d5e1f34ad8aa8ff795368828bbb0dd242698c4b"
 os = "windows"
 
     [[soapysdr.download]]
-    sha256 = "488e6e4be66c650c7e8446588b57a8fea582aeddede7942bb51c51246a7a9ce0"
-    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+0/soapysdr.v0.8.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "0be31998f273edbf7e6c8c52bb30222c9e90e9bbe7a0f819cb12e539ef99db73"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.x86_64-w64-mingw32-cxx03.tar.gz"
+[[soapysdr]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1663bf36d2923c89a222864adb3ba47e988a03dd"
+os = "windows"
+
+    [[soapysdr.download]]
+    sha256 = "fd85d3c2aa79a01e4dd7ffb8b7fec27a5a2d888586346d69db98cbf58257e78b"
+    url = "https://github.com/JuliaBinaryWrappers/soapysdr_jll.jl/releases/download/soapysdr-v0.8.1+1/soapysdr.v0.8.1.x86_64-w64-mingw32-cxx11.tar.gz"
